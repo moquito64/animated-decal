@@ -1,7 +1,7 @@
 
 from tkinter import *
-import time
-import os
+#import time
+#import os
 root = Tk()
 
 frameCnt = 4
