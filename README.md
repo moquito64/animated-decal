@@ -8,6 +8,7 @@ Coded in Python.
 ### To do: 
 - Find an image or gif
 - create low resource loop
+- rework sample code
 - figure out display
 - output and adjust
 - create mount
